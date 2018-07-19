@@ -1,7 +1,7 @@
 {
     "name": "pradeep/laracurl",
     "description": "Laravel-cUrl package",
-    "license": "MIL",
+    "license": "MIT",
     "authors": [
         {
             "name": "Pradeep Rajapaksha",
